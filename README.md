@@ -3,8 +3,6 @@
 
 # Project 1: Navigation
 
-![image1](bananas.gif)
-
 ### Introduction
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
@@ -17,6 +15,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
+![image1](bananas.gif)
 ### Getting Started
 
 1. Create (and activate) a new environment with Python 3.6 via Anaconda.
